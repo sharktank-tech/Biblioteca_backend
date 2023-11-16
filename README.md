@@ -22,9 +22,6 @@
 * [Como começar](#como-começar)
 * [Compartilhe](#compartilhe)
 
-# Devchallenge
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
-
 # Desafio
 Seu desafio é criar o backend para um sistema de gerenciamento de uma biblioteca!
 
